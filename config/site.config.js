@@ -49,10 +49,6 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'Blog',
-      link: 'https://www.mspace.cc',
-    },
-    {
       name: 'Telegram',
       link: 'https://t.me/tonyzs',
     },
